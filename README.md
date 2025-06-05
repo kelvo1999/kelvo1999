@@ -1,7 +1,7 @@
 # Kelvin Shisanya 👨‍💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kelvin_shisanya?style=social)](https://twitter.com/kelvin_shisanya)
-[![GitHub Followers](https://img.shields.io/github/followers/kelvinshisanya?style=social)](https://github.com/kelvinshisanya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vox_shecollects?style=social)](https://x.com/vox_shecollects)
+[![GitHub Followers](https://img.shields.io/github/followers/kelvo1999?style=social)](https://github.com/kelvo1999)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvinshisanya/)
 
 **Software Engineer | Pythonista ☕ | Developer Advocate | Open-Source Contributor | Tech Community Leader**
