@@ -50,8 +50,8 @@ Welcome to my GitHub! I build scalable solutions, mentor developers, and champio
 ---
 
 ## 📈 GitHub Stats  
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinshisanya&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinshisanya&layout=compact&theme=radical&hide_border=true)
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvo1999&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvo1999&layout=compact&theme=radical&hide_border=true)
 
 ---
 
