@@ -1,16 +1,53 @@
-## Hi there 👋
+# Kelvin Shisanya 👨‍💻
 
-<!--
-**kelvo1999/kelvo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/kelvin_shisanya?style=social)](https://twitter.com/kelvin_shisanya)
+[![GitHub Followers](https://img.shields.io/github/followers/kelvinshisanya?style=social)](https://github.com/kelvinshisanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvinshisanya/)
 
-Here are some ideas to get you started:
+**Software Engineer | Pythonista ☕ | Developer Advocate | Open-Source Contributor | Tech Community Leader**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building scalable solutions, empowering developers, and growing tech communities in Africa.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, JavaScript, Go  
+- **Cloud & DevOps**: GCP, AWS, Docker, Kubernetes  
+- **Web Frameworks**: Django, Flask, FastAPI  
+- **Data & AI**: TensorFlow, Pandas, SQL  
+- **Community**: GDG Organizer, PyCon Speaker  
+
+---
+
+## 🌟 Highlights  
+- **Google Developer Expert (GDE)** in Python & Cloud Technologies  
+- **Founding Organizer** of [PyCon Kenya](https://pycon.or.ke/)  
+- **Mentor** at [ALX Africa](https://www.alxafrica.com/)  
+- **Speaker** at international tech conferences (PyCon, DevFest, etc.)  
+
+---
+
+## 🔥 Latest Projects  
+1. **[Kenya Counties API](https://github.com/kelvinshisanya/kenya-counties-api)** – Open-source API for Kenyan administrative data.  
+2. **[DevHub KE](https://github.com/kelvinshisanya/devhub-ke)** – A community platform for Kenyan developers.  
+3. **[Python Cheat Sheets](https://github.com/kelvinshisanya/python-cheatsheets)** – Quick references for Pythonistas.  
+
+---
+
+## 📢 Talks & Workshops  
+- **"Scaling Python Apps on GCP"** – [PyCon Africa 2023](https://pycon.africa/)  
+- **"Career Growth for African Developers"** – [DevFest Nairobi 2023](https://devfest.nairobi.gdg.ke/)  
+- **"Intro to Open Source"** – [ALC Mentorship Program](https://www.alxafrica.com/)  
+
+---
+
+## 📫 Let's Connect!  
+- Twitter: [@kelvin_shisanya](https://twitter.com/kelvin_shisanya)  
+- LinkedIn: [Kelvin Shisanya](https://www.linkedin.com/in/kelvinshisanya/)  
+- Email: [kelvin@yourdomain.com](mailto:kelvin@yourdomain.com)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kelvinshisanya&color=blue&label=PROFILE+VIEWS)  
+
+*"Empowering the next generation of African developers!"* ✨  
