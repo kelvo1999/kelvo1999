@@ -38,10 +38,10 @@ Welcome to my GitHub! I build scalable solutions, mentor developers, and champio
 ---
 
 ## 🔥 Featured Projects  
-1. **[Kenya Counties API](https://github.com/kelvinshisanya/kenya-counties-api)**  
+1. **[Kenya Counties API](https://github.com/kelvo1999/kenya-counties-api)**  
    Open-source API for Kenyan administrative data (used by 50+ devs).  
 
-2. **[DevHub KE](https://github.com/kelvinshisanya/devhub-ke)**  
+2. **[DevHub KE](https://github.com/kelvo1999/devhub-ke)**  
    Community platform connecting Kenyan developers.  
 
 3. **[Portfolio Site](https://kelvo1999.github.io/Portfolio/)**  
@@ -62,6 +62,6 @@ Welcome to my GitHub! I build scalable solutions, mentor developers, and champio
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kelvinshisanya&color=blue&label=PROFILE+VIEWS)  
+![Visitor Count](https://komarev.com/ghpvc/?username=kelvo1999&color=blue&label=PROFILE+VIEWS)  
 
 *"Building the future, one line of code at a time."* 💻  
